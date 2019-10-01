@@ -1,3 +1,47 @@
-ul {
-    color: blue;
+@import url('https://fonts.googleapis.com/css?family=Open+Sans&display=swap');
+
+
+body {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+    }
+
+#ul-1 {
+    color: black;
+    font-style: italic;
+    font-family: 'Open Sans', sans-serif;
+}
+
+#ol-1 {
+    color: black;
+}
+
+header {
+    background-color: blanchedalmond;
+}
+
+.section1 {
+    background-color: aqua;
+}
+
+.section2 {
+    background-color: aquamarine;
+}
+
+#footer1 {
+    background-color: black;
+    color: white;
+}
+
+p {
+    color: blueviolet;
+}
+
+hr {
+    background-color: beige;
+}
+
+br {
+    color: white;
 }
